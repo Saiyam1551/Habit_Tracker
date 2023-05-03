@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Saiyam1551/Habit_Tracker.git",
   "dependencies": {
     "connect-flash": "^0.1.1",
+    "cookie-session": "^2.0.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
